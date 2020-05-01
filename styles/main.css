@@ -11,7 +11,7 @@ html {
 .element::-webkit-scrollbar { width: 0 !important }
 
 body {
-    background: rgb(1, 17, 26);
+    background: #151D21;
     background-image: url('../images/bg.png');
     background-size: 100%;
     background-repeat: no-repeat;
@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-    color: #3880ec;
+    color: #7aafff;
 }
 
 header .logo a {
