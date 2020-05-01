@@ -70,7 +70,7 @@ section header {
 }
 
 .games {
-    margin-top: 20px;
+    margin-top: 220px;
 }
 
 section {
@@ -209,7 +209,7 @@ footer {
     }
 
     .games {
-        margin-bottom: 50px;
+        margin-top: 50px;
     }
 
     .features figure:first-child {
