@@ -11,7 +11,7 @@ html {
 .element::-webkit-scrollbar { width: 0 !important }
 
 body {
-    background: #151D21;
+    background: rgb(1, 17, 26);
     background-image: url('../images/bg.png');
     background-size: 100%;
     background-repeat: no-repeat;
@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-    color: #ff7a7a;
+    color: #3880ec;
 }
 
 header .logo a {
@@ -70,7 +70,7 @@ section header {
 }
 
 .games {
-    margin-top: 220px;
+    margin-top: 20px;
 }
 
 section {
