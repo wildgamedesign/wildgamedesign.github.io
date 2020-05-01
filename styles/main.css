@@ -15,7 +15,7 @@ body {
     background-image: url('../images/bg.png');
     background-size: 100%;
     background-repeat: no-repeat;
-    color: white;
+    color: red;
 }
 
 a {
@@ -140,7 +140,7 @@ figure figcaption a:hover {
 }
 
 section .mybutton:hover {
-    background: white;
+    background: greenyellow;
     font-size: 26px;
     margin-top: 29px;
 }
@@ -247,7 +247,7 @@ footer {
     }
 
     section .mybutton:hover {
-        background: white;
+        background: greenyellow;
         font-size: 14px;
         margin-top: 29px;
     }
