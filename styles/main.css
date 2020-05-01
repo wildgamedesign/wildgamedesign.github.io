@@ -140,7 +140,7 @@ figure figcaption a:hover {
 }
 
 section .mybutton:hover {
-    background: greenyellow;
+    background: white;
     font-size: 26px;
     margin-top: 29px;
 }
@@ -247,7 +247,7 @@ footer {
     }
 
     section .mybutton:hover {
-        background: greenyellow;
+        background: white;
         font-size: 14px;
         margin-top: 29px;
     }
