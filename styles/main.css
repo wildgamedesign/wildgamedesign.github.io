@@ -15,7 +15,7 @@ body {
     background-image: url('../images/bg.png');
     background-size: 100%;
     background-repeat: no-repeat;
-    color: rgb(255, 0, 0);
+    color: red;
 }
 
 a {
